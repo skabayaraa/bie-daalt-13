@@ -1,15 +1,6 @@
-# Stack Comparison
+Stack options:
+1. Express + Node (selected)
+2. NestJS (too complex)
+3. Fastify (less community)
 
-| Stack | Pros | Cons |
-|---|---|---|
-| MERN | Popular | MongoDB setup |
-| Django | Fast backend | Python ecosystem |
-| React + Express + SQLite | Simple and lightweight | Small scale |
-
-## Selected Stack
-
-React + Express + SQLite selected because:
-- easy setup
-- lightweight
-- suitable for small project
-- easier testing
+Selected: Express because simple and fast for learning.

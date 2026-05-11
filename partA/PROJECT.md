@@ -1,17 +1,12 @@
-# Personal Task Tracker
+# Task Tracker API
 
-## Goal
-
-Simple task management system.
+Simple REST API using Node.js + Express.
 
 ## Features
-
 - Create task
+- Read tasks
 - Update task
 - Delete task
-- Search/filter tasks
-- Due date and priority
 
 ## Scope
-
-Single-user lightweight productivity application.
+In-memory storage, no database.
